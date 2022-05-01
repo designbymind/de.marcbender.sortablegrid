@@ -3,7 +3,7 @@
 SortableGridView (like iOS Dashboard) for Titanium.
 (unfinisehd yet)
 
-iOS -> minimum iOS version supported is 12.0 !!!
+iOS -> minimum iOS version supported is 12.0
 
 ## Demo
 
